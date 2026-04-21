@@ -33,7 +33,7 @@ The data was imported into Python using **pandas**. It was then cleaned and orga
    - matplotlib
 
 ## 6. Demo
-[Watch the demo here](https://drive.google.com/file/d/1TcwCZcE7k0V_wQQ8Cpiyl2_88RKH92EL/view?usp=drive_link)
+[Watch the demo here](https://video.xjtlu.edu.cn/Mediasite/Play/20799e7ad6b4451e972ee6f0854180571d)
 
 ## 7. Limitations & Next Steps
 - Prices may vary depending on location and time.
