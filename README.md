@@ -39,4 +39,5 @@ The data was imported into Python using **pandas**. It was then cleaned and orga
 - Prices may vary depending on location and time.
 - The dataset is relatively small.
 - The analysis could be improved by including more retailers.
+- Product matches were not always available between the two retailers.
 - A larger dataset would make the results more accurate and reliable.
